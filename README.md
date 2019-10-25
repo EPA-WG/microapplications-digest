@@ -11,5 +11,5 @@ To list your microapplication please create the issue with
     * JSFiddle ( could be forked from https://jsfiddle.net/suns2015/k2sdfrt1/4/ ) 
     * docs, forum, etc
     * sources repo if available
-    * "I confirm my posting to Microappliocation Digest is compiant with CLA(Contributor License Agreement) https://github.com/EPA-WG/microapplications-digest/blob/master/NDA.md"
+    * "I confirm my posting to Microappliocation Digest is compiant with CLA(Contributor License Agreement) https://github.com/EPA-WG/microapplications-digest/blob/master/CLA.md"
 
